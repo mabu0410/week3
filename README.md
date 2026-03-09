@@ -12,9 +12,9 @@
 
 | Nội dung                                                                                                             | Code                                                                              |
 | -------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| Tạo project Spring Boot đơn giản, test REST API `/hello` trả về **Hello World!**                                     | [View Code](https://github.com/your-repo-link/tree/main/hello-api)                |
+| Tạo project Spring Boot đơn giản, test REST API `/hello` trả về **Hello World!**                                     | [View Code](SpringIntro/src/main/java/org/example/springintro/HelloController.java)                |
 | REST API với Spring Boot: Controller, RequestMapping, `@GetMapping`, `@PostMapping`, `@PutMapping`, `@DeleteMapping` | [View Code](SpringIntro/src/main/java/org/example/springintro/controller/ProductsController.java)           |
-| Tạo REST controller `/products` với các API: `GET /products`, `POST /products`, `GET /products/{id}`                 | [View Code](https://github.com/your-repo-link/tree/main/product-api)              |
+| Tạo REST controller `/products` với các API: `GET /products`, `POST /products`, `GET /products/{id}`                 | [View Code](SpringIntro/src/main/java/org/example/springintro/controller/ProductsController.java)              |
 | Tạo Entity **Product** (`id`, `name`, `price`, `category`)                                                           | [View Code](https://github.com/your-repo-link/tree/main/product-entity)           |
 | Tạo Repository để lưu và tìm kiếm sản phẩm                                                                           | [View Code](https://github.com/your-repo-link/tree/main/product-repository)       |
 | Kết nối MySQL/PostgreSQL, viết SQL tạo bảng product                                                                  | [View Code](https://github.com/your-repo-link/tree/main/sql-schema)               |
