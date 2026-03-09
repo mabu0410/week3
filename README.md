@@ -15,7 +15,7 @@
 | Spring Intro & IoC: IOC, Bean, Autowiring, cấu trúc Spring Boot project                                              | [View Code](https://github.com/your-repo-link/tree/main/spring-intro)             |
 | Tạo project Spring Boot đơn giản, test REST API `/hello` trả về **Hello World!**                                     | [View Code](https://github.com/your-repo-link/tree/main/hello-api)                |
 | Hiểu và giải thích `@Component`, `@Service`, `@Autowired`                                                            | [View Code](https://github.com/your-repo-link/tree/main/spring-di-example)        |
-| REST API với Spring Boot: Controller, RequestMapping, `@GetMapping`, `@PostMapping`, `@PutMapping`, `@DeleteMapping` | [View Code](src/main/java/org/example/springintro/controller/ProductsController.java)           |
+| REST API với Spring Boot: Controller, RequestMapping, `@GetMapping`, `@PostMapping`, `@PutMapping`, `@DeleteMapping` | [View Code](SpringIntro/src/main/java/org/example/springintro/controller/ProductsController.java)           |
 | Tạo REST controller `/products` với các API: `GET /products`, `POST /products`, `GET /products/{id}`                 | [View Code](https://github.com/your-repo-link/tree/main/product-api)              |
 | Spring Data JPA: Entity, Repository, CrudRepository, query method                                                    | [View Code](https://github.com/your-repo-link/tree/main/jpa-example)              |
 | Tạo Entity **Product** (`id`, `name`, `price`, `category`)                                                           | [View Code](https://github.com/your-repo-link/tree/main/product-entity)           |
